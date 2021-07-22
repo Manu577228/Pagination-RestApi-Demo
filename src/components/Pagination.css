@@ -1,0 +1,16 @@
+.pagination {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+}
+
+.page-item {
+    padding: 1rem;
+    color: white;
+    background-color: black;
+}
+
+.page-link {
+    text-decoration: none;
+    color: white;
+}

@@ -1,0 +1,17 @@
+.text{
+    display: flex;
+    justify-content: center;
+}
+
+.list-group {
+
+    list-style: none;
+    padding: 2rem;
+}
+
+.list-group-item {
+    display: flex;
+    justify-content: center;
+    padding: 1rem;
+}
+
